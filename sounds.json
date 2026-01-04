@@ -1,0 +1,5 @@
+
+{
+  "move": { "sounds": [ "chessmod:move" ] },
+  "capture": { "sounds": [ "chessmod:capture" ] }
+}

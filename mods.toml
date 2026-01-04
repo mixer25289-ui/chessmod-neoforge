@@ -1,0 +1,10 @@
+
+modLoader="javafml"
+loaderVersion="[2,)"
+license="MIT"
+
+[[mods]]
+modId="chessmod"
+version="1.0.0"
+displayName="Chess Mod"
+description="Full chess with GUI, AI, multiplayer"
